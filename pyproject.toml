@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "connect-to-gdrive-tutorial"
+version = "0.1.0"
+description = ""
+authors = ["Jason Fan <jason.wc.fan@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+psychicapi = "^0.7.3"
+langchain = "^0.0.195"
+python-dotenv = "^1.0.0"
+openai = "^0.27.8"
+chromadb = "^0.3.26"
+tiktoken = "^0.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
