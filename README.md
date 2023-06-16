@@ -1,5 +1,5 @@
 # connect-to-gdrive-tutorial
-This is the code for the tutorial [here](www.psychic.dev/post/how-to-connect-the-gdrive-api-to-langchain), showing how to connect articles from a Google Drive account to LLMs using Psychic, Chroma, and LangChain.
+This is the code for the tutorial [here](www.psychic.dev/post/how-to-connect-the-gdrive-api-to-langchain), showing how to connect files from a Google Drive account to LLMs using Psychic, Chroma, and LangChain.
 
 ## Running
 1. Create an account at https://dashboard.psychic.dev/ (it's free) and connect a Google Drive account.
